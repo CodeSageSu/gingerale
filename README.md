@@ -30,7 +30,7 @@ A minimal web server using the Gin framework for Go, providing simple HTTP routi
 ### Development
 Run the development server (local port 8080):
 ```bash
-# Recommended to specify local directory for Go build cache in restricted environments
+# Recommended to specify local directory for Go build cache in restricted environments.
 GOCACHE=$(pwd)/.gocache go run .
 ```
 
