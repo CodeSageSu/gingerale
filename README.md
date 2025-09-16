@@ -1,6 +1,6 @@
 # gingerale
 
-A minimal web server example using the Gin framework for Go, providing simple HTTP routing with JSON and string responses.
+A minimal web server using the Gin framework for Go, providing simple HTTP routing with JSON and string responses.
 
 ## Features
 - Lightweight HTTP server with Gin framework
